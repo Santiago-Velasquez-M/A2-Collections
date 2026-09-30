@@ -1,8 +1,7 @@
 # A2: Collections — Estructuras de Datos
 
-Proyecto Maven (Java 21) que resuelve el taller **A2: Collections** (Java
-Collections Framework), con la misma estructura de paquetes usada en otros
-proyectos del curso: `model`, `services` (clases `Gestor...`) y `benchmark`.
+Proyecto Maven (Java 21)**A2: Collections** (Java
+Collections Framework), 
 
 ## Estructura del proyecto
 
